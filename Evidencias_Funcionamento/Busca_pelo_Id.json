@@ -1,0 +1,12 @@
+{
+  "idSale": 0,
+  "date": "2022-09-22T20:02:25.4430351",
+  "status": "Aguardando pagamento",
+  "idProduct": 0,
+  "productName": "Produto para teste ",
+  "id": 3,
+  "cpf": "CPF de teste",
+  "sellerName": "Nome do Vendedor para Teste",
+  "email": "Email para teste",
+  "phoneNumber": "Telefone para teste"
+}
