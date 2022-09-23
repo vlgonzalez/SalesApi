@@ -1,13 +1,5 @@
 ## INSTRUÇÕES PARA O TESTE TÉCNICO
 
-- Crie um fork deste projeto (https://gitlab.com/Pottencial/tech-test-payment-api/-/forks/new). É preciso estar logado na sua conta Gitlab;
-- Adicione @Pottencial (Pottencial Seguradora) como membro do seu fork. Você pode fazer isto em  https://gitlab.com/`your-user`/tech-test-payment-api/settings/members;
- - Quando você começar, faça um commit vazio com a mensagem "Iniciando o teste de tecnologia" e quando terminar, faça o commit com uma mensagem "Finalizado o teste de tecnologia";
- - Commit após cada ciclo de refatoração pelo menos;
- - Não use branches;
- - Você deve prover evidências suficientes de que sua solução está completa indicando, no mínimo, que ela funciona;
-
-## O TESTE
 - Construir uma API REST utilizando .Net Core, Java ou NodeJs (com Typescript);
 - A API deve expor uma rota com documentação swagger (http://.../api-docs).
 - A API deve possuir 3 operações:
